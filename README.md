@@ -131,6 +131,6 @@ As we tried new models here, we saw that the predictions started getting better.
 
 As per the above image we see that the ensemble learners model showed a better recall as well as f1-scores for the high risk. But the scores were still not the best to consider that model as the best model.
 
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+There is a recommendation on which model to use, or there is no recommendation?
 
 The Easy Ensemble model showed the highest accuracy score of 0.94, as well as the highest recall score of 0.67 of the high risk category but failed score well at the f1-score at only 0.07 for the same. This proves that though the Easy Ensemble model looks the best as compared to the other tried models here but its still not the final recommended model here.
